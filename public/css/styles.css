@@ -1,0 +1,16 @@
+* {
+    font: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #48e684;
+}
+
+.menu-caixa {
+    background-color: yellow;
+    border: 2px solid #d3d61a;
+    width: 400px;
+    height: 600px;
+}
