@@ -15,7 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="caixa">
-                <div class="menu-caixa col-12">
+                <div class="menu-caixa justify-content-center col-12">
                     <form action="" method="POST">
 
 
