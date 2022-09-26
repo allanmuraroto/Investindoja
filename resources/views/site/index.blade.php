@@ -15,6 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="caixa">
+                <a href="{{route('site.carteira')}}">carteira</a>
                 <div class="menu-caixa justify-content-center col-12">
                     <form action="" method="POST">
 

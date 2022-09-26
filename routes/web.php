@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'PrincipalController@index')->name('site.index');
+Route::get('/carteira', 'PrincipalController@carteira')->name('site.carteira');

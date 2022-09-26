@@ -11,6 +11,12 @@ class PrincipalController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+
+    public function carteira()
+    {
+        return view ('site.carteira');
+    }
+
     public function index()
     {
         return view('site.index');
